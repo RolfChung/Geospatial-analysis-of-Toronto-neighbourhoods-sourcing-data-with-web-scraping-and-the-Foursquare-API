@@ -7,6 +7,6 @@ These goal of these notebook is to find clusters with K-Means machine learning i
 
 
 <p>
-These notebook were created for capstone project of the IBM Applied Data Science Certification on Coursera. It covers data preparation, exploration, visualization, mapping,  webscraping, API configuration, machine learning, and sql.
+These notebooks were created for the capstone project of the IBM Applied Data Science Certification on Coursera. It covers data preparation, exploration, visualization, mapping,  webscraping, API configuration, machine learning, and sql.
 </p> 
 <a href="https://www.coursera.org/professional-certificates/ibm-data-science?">IBM Data Science Professional Certificate</a> 
